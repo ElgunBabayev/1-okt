@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Motored Vehicle/1.0.0": {
+        "runtime": {
+          "Motored Vehicle.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Motored Vehicle/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
